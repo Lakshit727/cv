@@ -1,0 +1,33 @@
+ body {
+  background-color: powderblue;
+}
+
+hr {
+background-color: powderblue;
+border-style:none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5PX;
+height: 0px;
+width: 5%;
+
+}
+h1{
+  color: #bf1363;
+
+
+}
+h2{
+  color: #bf1363;
+}
+h3{
+  color: #bf1363;
+}
+a{
+    color: #7952b3;
+}
+
+
+img {
+  height: 125px;
+}
